@@ -1,0 +1,11 @@
+customtkinter
+CTkToolTip
+h5py
+matplotlib
+numpy
+opencv-python
+pandas
+Pillow
+pyfftw
+scipy
+seaborn
