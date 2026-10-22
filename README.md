@@ -6,7 +6,7 @@ Make tiny movements visible, then take a closer look at their frequency content.
 
 A Python desktop application for phase-based video motion amplification and frequency analysis, developed during my bachelor's thesis in medical engineering. Load a recording, choose a frequency band and amplify movements that are otherwise difficult to see.
 
-[** There is also an article on our blog** (schuetzbuilds.de)](https://schuetzbuilds.de/motion-amplification-seeing-the-invisible.html)
+[**There is also an article on our blog** (schuetzbuilds.de)](https://schuetzbuilds.de/motion-amplification-seeing-the-invisible.html)
 
 ## What it can do
 
