@@ -1,5 +1,7 @@
 # Motion Amplification
 
+![Motion Amplification interface with video preview, algorithm settings and frequency analysis controls](Header.png)
+
 Make tiny movements visible, then take a closer look at their frequency content.
 
 A Python desktop application for phase-based video motion amplification and frequency analysis, developed during my bachelor's thesis in medical engineering. Load a recording, choose a frequency band and amplify movements that are otherwise difficult to see.
